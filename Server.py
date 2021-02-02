@@ -1,3 +1,4 @@
+#importar libreria Socket
 import socket
 
 localIP = "127.0.0.1"
